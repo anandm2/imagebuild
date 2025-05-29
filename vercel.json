@@ -7,8 +7,8 @@
     }
   ],
   "env": {
-    "SUPABASE_URL": "@supabaseUrl",
-    "SUPABASE_KEY": "@supabaseKey"
+    "NEXT_PUBLIC_SUPABASE_URL": "@supabaseUrl",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "@supabaseAnonKey"
   },
   "routes": [
     {
